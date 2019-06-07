@@ -1,0 +1,8 @@
+- name: "Max"
+  occupation: "Unemployed"
+
+- name: "Michael"
+  occupation: "Researcher"
+
+- name: "Daniel"
+  occupation: "Student"
